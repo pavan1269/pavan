@@ -1,7 +1,10 @@
 hi thammudu
 jdskjfklsdjf
 <<<<<<< HEAD
+<<<<<<< HEAD
  Hi I am moka ananya
 Nuvu thop ra ayya
+=======
+>>>>>>> parent of 6c1ca15... mokka ananya added
 =======
 >>>>>>> parent of 6c1ca15... mokka ananya added
